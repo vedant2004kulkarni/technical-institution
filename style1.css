@@ -1,0 +1,6 @@
+.cropped-image {
+    width:100px; /* Set the desired width of the cropped image */
+    height:100px; /* Set the desired height of the cropped image */
+    overflow: hidden;
+    align:center;
+  }

@@ -1,0 +1,12 @@
+.cropped-image {
+    width: 200px; /* Set the desired width of the cropped image */
+    height: 200px; /* Set the desired height of the cropped image */
+    overflow: hidden;
+  }
+  
+  .cropped-image img {
+    clip: rect(0px, 200px, 200px, 0px); /* Define the cropping area (top, right, bottom, left) */
+  }
+  body{
+    background-image:url(https://tse3.mm.bing.net/th?id=OIP.bCG15X5U8tj8acDWGKec-gHaEo&pid=Api&P=0&h=180);
+  }
